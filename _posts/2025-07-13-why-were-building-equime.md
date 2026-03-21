@@ -6,13 +6,13 @@ week: 0
 type: deep-dive
 ---
 
-I grew up in a baseball household. As I moved away from playing baseball, I got very involved with fantasy baseball. I also started investing at a young age. I found that performing analisys and cultivating strategy were things I enjoyed. 
+I grew up in a baseball household. As I moved away from playing baseball, I got very involved with fantasy baseball. I also started investing at a young age. I found that performing analysis and cultivating strategy were things I enjoyed. 
 
 With those interests in mind, I eventually came up with the idea to play fantasy baseball on a platform that leveraged player values like a stock. Buy low on a rookie, sell high after a breakout season. Simple concept. I thought about building it, but realized there was no stock. No market. No mechanism to make it happen.
 
 I discovered that other companies have tried starting here and failed. They built the fantasy layer, the gamified wrapper, the social features. But they all needed the underlying market to exist first. You can't build the toys without building the exchange.
 
-We iterated on the idea and realized it wasn't tied to baseball or fantasy at all. There was a deeper issue we could solve. There is no clean, fair mechanism for people with potential to raise capital or recieve valuations from the people who believe in them.
+We iterated on the idea and realized it wasn't tied to baseball or fantasy at all. There was a deeper issue we could solve. There is no clean, fair mechanism for people with potential to raise capital or receive valuations from the people who believe in them.
 
 ## Beyond Baseball
 

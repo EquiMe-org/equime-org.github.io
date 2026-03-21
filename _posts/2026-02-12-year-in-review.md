@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Year in Review"
-date: 2026-2-12
+date: 2026-02-12
 week: 0
 type: deep-dive
 topic: "introspection"
@@ -23,7 +23,7 @@ I adjusted my work hours to 6am to 3pm. I take an hour to reset. Then I work on 
 
 It's cost me. Physical health has taken a back seat. Social life is essentially nonexistent. Things like cooking dinner feel like luxuries because they take too much time. Every hour has to count, and right now most of them go to building.
 
-Last year I ran a marathon with my cofounder. It was as much as a physical test as it was a mental one. How far can you keep going after you've already given in to the negative thoughts? How long can you endure after you're already tired? The marathon was a metaphor we could measure in miles. Through delusional confidence and perserveraince, we finished. 
+Last year I ran a marathon with my cofounder. It was as much as a physical test as it was a mental one. How far can you keep going after you've already given in to the negative thoughts? How long can you endure after you're already tired? The marathon was a metaphor we could measure in miles. Through delusional confidence and perseverance, we finished. 
 
 ## AI Changed Everything (and Made Everything Harder)
 
@@ -35,7 +35,7 @@ The pace of change is both our greatest tailwind and our most relentless headwin
 
 ## The Puffin
 
-Early on I made a list of topics I needed to go deeper on: economics, crypto, leadership, AI, legal, VC, accounting, finance, raising strategy, statistics. I'm not nessesarily starting from zero on any of these. But I'm also not a career finance savant or an AI subject matter expert. These are deep domains and building a company that touches all of them means you're always learning.
+Early on I made a list of topics I needed to go deeper on: economics, crypto, leadership, AI, legal, VC, accounting, finance, raising strategy, statistics. I'm not necessarily starting from zero on any of these. But I'm also not a career finance savant or an AI subject matter expert. These are deep domains and building a company that touches all of them means you're always learning.
 
 The biggest thing I got wrong early was thinking I needed to have all the answers. I don't. What I need is to know who to turn to when I need the right questions answered.
 
