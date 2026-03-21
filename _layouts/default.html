@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ '/' | relative_url }}" class="site-title">equiMe</a>
+      <span class="site-subtitle">Founder's Journal</span>
+    </div>
+  </header>
+  <main class="container">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <div class="container">
+      <p>Built in public by <a href="https://nolen4242.github.io" target="_blank">Nolen Smith</a> — CEO & Founder, <a href="https://equime.net" target="_blank">equiMe</a></p>
+      <p class="tagline">Invest Human.</p>
+    </div>
+  </footer>
+</body>
+</html>
