@@ -6,11 +6,13 @@ week: 0
 type: deep-dive
 ---
 
-I wanted to play fantasy baseball on a platform that leveraged player values like a stock. Buy low on a rookie, sell high after a breakout season. Simple concept. But when I went looking for it, there was no stock. No market. No mechanism to make it happen.
+I grew up in a baseball household. As I moved away from playing baseball, I got very involved with fantasy baseball. I also started investing at a young age. I found that performing analisys and cultivating strategy were things I enjoyed. 
 
-Other companies have tried starting here and failed. They built the fantasy layer, the gamified wrapper, the social features. But they all needed the underlying market to exist first. You can't build the toys without building the exchange.
+With those interests in mind, I eventually came up with the idea to play fantasy baseball on a platform that leveraged player values like a stock. Buy low on a rookie, sell high after a breakout season. Simple concept. I thought about building it, but realized there was no stock. No market. No mechanism to make it happen.
 
-We iterated on the idea and realized it wasn't tied to baseball or fantasy at all. There was a deeper issue we could solve. There is no clean, fair mechanism for people with potential to raise capital from the people who believe in them.
+I discovered that other companies have tried starting here and failed. They built the fantasy layer, the gamified wrapper, the social features. But they all needed the underlying market to exist first. You can't build the toys without building the exchange.
+
+We iterated on the idea and realized it wasn't tied to baseball or fantasy at all. There was a deeper issue we could solve. There is no clean, fair mechanism for people with potential to raise capital or recieve valuations from the people who believe in them.
 
 ## Beyond Baseball
 
@@ -22,11 +24,11 @@ equiMe is built to fix that.
 
 ## What equiMe Actually Is
 
-equiMe is a personal asset platform. We enable individuals (athletes, creators, entrepreneurs, anyone with potential) to issue personal assets that represent a stake in their future brand value. Investors buy those assets. As the person succeeds, demand drives the asset value higher. Early believers participate in the upside.
+equiMe is a personal asset platform. We enable individuals (athletes, creators, entrepreneurs, anyone with potential) to issue personal shares that represent a stake in their future brand value. Investors buy those shares/assets. As the person succeeds, demand drives the asset value higher. Early believers participate in the upside.
 
 Think of it as stock in people, not companies.
 
-We're built on the Avalanche blockchain. Institutional-grade infrastructure with sub-second finality and low transaction costs. There's a primary sale (like an IPO, but for a person) and a secondary market where assets trade freely based on supply and demand.
+We're built on the Avalanche blockchain. Institutional-grade infrastructure with sub-second finality and low transaction costs. There's a primary sale (like an IPO, but for a person) and a secondary market where assets trade freely based on supply and demand. Creators sign up to sell their likeness by issuing a personal token. They raise capital without taking on any debt. 
 
 The one-sentence version: **you can invest directly in someone you believe in.**
 
