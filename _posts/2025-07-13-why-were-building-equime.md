@@ -52,7 +52,7 @@ Meanwhile, AI is automating content at an accelerating rate. When anyone can gen
 
 ## Why Us
 
-We founded equiMe about a year ago, though the idea has been years in the making. I still haven't quit my day job. I'm an IAM engineer at Koch Industries, and I take my responsibilities there seriously. But the closer we get to a funding round, the closer that changes. I want to work full time on something that has this many positive impacts on people's lives.
+We founded equiMe about a year ago, though the idea has been years in the making. I want to work full time on something that has this many positive impacts on people's lives.
 
 We're pre-revenue, pre-seed, and building. The MVP is in active development. The legal infrastructure is in place. The financial models are built. Every week we're getting closer.
 
