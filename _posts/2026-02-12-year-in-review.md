@@ -15,16 +15,6 @@ Looking back, it should have been the easiest. Once you start, you iterate. You 
 
 The anxiety wasn't about failure. It was about ambiguity. I didn't know what I didn't know, and the landscape of things I needed to learn felt infinite. The only way through it was to start anyway and figure it out on the move.
 
-## The Double Life
-
-Here's the part nobody warns you about: building a company while holding down a full-time job. 
-
-I adjusted my work hours to 6am to 3pm. I take an hour to reset. Then I work on equiMe from 4pm to midnight, most days of the week. Whatever doesn't get done in the week gets done on the weekend.
-
-It's cost me. Physical health has taken a back seat. Social life is essentially nonexistent. Things like cooking dinner feel like luxuries because they take too much time. Every hour has to count, and right now most of them go to building.
-
-Last year I ran a marathon with my cofounder. It was as much as a physical test as it was a mental one. How far can you keep going after you've already given in to the negative thoughts? How long can you endure after you're already tired? The marathon was a metaphor we could measure in miles. Through delusional confidence and perseverance, we finished. 
-
 ## AI Changed Everything (and Made Everything Harder)
 
 One of the biggest surprises was how much AI accelerated our ability to build. We can ship significantly faster, get recommendations, and research things that would have taken 10x the time a few years ago. For a tiny team with no funding, that's the difference between existing and not.
